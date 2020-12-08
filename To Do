@@ -1,0 +1,5 @@
+To do list:
+*Create equation that estimates match score.
+*Determine how to present win and loss statistics. The non- official website isn’t clear what the number of wins means, it is in decimals.
+*Make working code to read website statistics (There are some issues I foresee coming with reading numbers that are on images).
+*Make equation that once it receives the numbers from the websites, it calculates the win rates for each character.
